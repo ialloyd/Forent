@@ -12,8 +12,6 @@
 
 Figma Link- https://www.figma.com/file/BSbgjGzOBaGR0kxzgMyogB/Contest-2
 
-![Alt text](<resources/Forent (1).png>)
-
 # Requirements:
 
 1.Create a Header with a logo positioned on the left side, a search bar in the middle as shown in the UI, and three buttons arranged in a flex-box on the right side.
