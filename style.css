@@ -98,12 +98,11 @@ div p{
 
 }
 
-h2{
-
+.abt-us{
   margin-left: 15px;
   color:rgb(255,255,255);
   padding-bottom: 10px;
-  font-size:40px;
+  font-size:30px;
 }
 
 .know-more{
@@ -124,9 +123,10 @@ h2{
   display: flex;
   flex-wrap: wrap;
   color:white;
-  padding-inline: 4vw;
+  padding-inline: 6vw;
   justify-content:space-between;
   align-items:center;
+  margin-bottom: 50px;
 
 }
 
@@ -134,7 +134,7 @@ h2{
   border:4px solid rgb(38,38,38);
   width:300px;
   height:300px;
-  padding: 20px;
+  padding: 15px;
   color:rgb(196,196,196);
   border-radius: 20px;
   
@@ -142,15 +142,39 @@ h2{
 
 .card p{
 
-  font-size: medium;
+  font-size: 14px;
 
 }
 
 .card h3{
 
-  margin-left:20px;
+  margin-left:30px;
+  font-size: 25px;
+  margin-bottom: 10px;
 
+}
 
+.cat{
+
+  color:rgb(255,255,255);
+  font-size: 30px;
+  margin-left: 110px;
+  margin-bottom: 50px;
+  
+}
+
+#know-more{
+
+  float:right;
+  margin-top: 50px;
+  margin-right: 10px;
+  padding:13px;
+  width:120px;
+  border-radius: 20px;
+  border:none;
+  background-color: rgb(254,203,3);
+  font-weight: bold;
+  
 }
 
 
